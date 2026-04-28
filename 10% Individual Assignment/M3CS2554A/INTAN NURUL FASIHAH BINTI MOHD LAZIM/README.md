@@ -6,9 +6,11 @@
 
 **CLASS:** M3CS2554A
 
+**VIDEO DEMONSTRATION LINK:** https://youtu.be/sFz0jU-fFgI
+
 --------------------------------------------------------------------------------------------------------------------------------
 ## 📝 INTRODUCTION
-The Parallel Dice Combination Simulator is a Python-based application that simulates rolling two dice a large number of times to analyze the frequency of each possible outcome (sum = 2 to 12).
+The Parallel Dice Combination Simulator is a Python-based application that simulates rolling dice a large number of times 
 
 This project demonstrates three execution approaches:
 
@@ -276,11 +278,6 @@ if __name__ == "__main__":
 
 
 ```
-
------------------------
-#📈 Result Analysis
-
-
 --------------------------------
 
 # Sample Input / Output
