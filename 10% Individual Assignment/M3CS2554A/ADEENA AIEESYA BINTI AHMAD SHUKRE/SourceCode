@@ -1,4 +1,3 @@
-## SOURCE CODE
 import random
 import time
 import threading
