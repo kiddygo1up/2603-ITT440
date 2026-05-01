@@ -10,7 +10,7 @@
 
 ## 1. Introduction ✎
 
-Network auditing is a fundamental pillar of cybersecurity, essential for identifying infrastructure vulnerabilities. However, traditional sequential scanning methods are fundamentally limited by their inability to handle massive datasets efficiently, often resulting in severe performance bottlenecks. This project develops a high-performance Network Service Auditor and Vulnerability Scoring Engine. By implementing and evaluating three distinct execution paradigms,; Sequential, Concurrent, and Parallel. This research quantifies the architectural efficiency required for large-scale forensic discovery against a 2,000,000-task workload.
+Network auditing is a fundamental pillar of cybersecurity, essential for identifying infrastructure vulnerabilities. However, traditional sequential scanning methods are fundamentally limited by their inability to handle massive datasets efficiently, often resulting in severe performance bottlenecks. This project develops a high-performance Network Service Auditor and Vulnerability Scoring Engine. By implementing and evaluating three distinct execution paradigms; Sequential, Concurrent, and Parallel. This research quantifies the architectural efficiency required for large-scale forensic discovery against a 2,000,000-task workload.
 
 <br>
 
